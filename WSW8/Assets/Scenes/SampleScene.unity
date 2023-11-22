@@ -203,7 +203,7 @@ GameObject:
   - component: {fileID: 282807772}
   - component: {fileID: 282807771}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: BlankText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
