@@ -29,8 +29,7 @@ public class GraphNode : MonoBehaviour
         GraphNode newNode = new GraphNode(item);
         LinkedList<GraphNode> temp = new LinkedList<GraphNode>();
         temp.AddLast(newNode);
-        graph.AddLast(temp);
-        Size++;
+       
 
     }
 
